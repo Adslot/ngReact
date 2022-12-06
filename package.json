@@ -16,8 +16,8 @@
   "license": "MIT",
   "peerDependencies": {
     "angular": "< 2.0.0",
-    "react": ">=0.14.2",
-    "react-dom": ">=0.14.2"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "browserify-shim": {
     "angular": "global:angular"
@@ -38,9 +38,7 @@
     "karma": "0.13.22",
     "karma-browserify": "5.0.3",
     "karma-jasmine": "^0.3.6",
-    "karma-phantomjs-launcher": "1.0.0",
     "load-grunt-tasks": "3.5.0",
-    "phantomjs-prebuilt": "2.1.7",
     "react": "^15.0.0",
     "react-addons-test-utils": "^15.0.0",
     "react-dom": "^15.0.0",
